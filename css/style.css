@@ -111,6 +111,9 @@ hr{
 	background-color: rgba(10, 20, 29, .4);
 	margin: 8rem 0;
 }
+textarea{
+	resize: none;
+}
 
 .footer{
 	background: #0A141D;
