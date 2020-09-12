@@ -52,13 +52,13 @@
 	position: relative;
 	margin: 0 auto;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 }
 
 #fondo1{
 	position: absolute;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 	background: url(../img/apetizer_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 20s infinite;
@@ -67,7 +67,7 @@
 #fondo2{
 	position: absolute;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 	background: url(../img/beer_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 15s infinite;
@@ -76,7 +76,7 @@
 #fondo3{
 	position: absolute;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 	background: url(../img/cheese_slide.jpg);
 	background-color: black;
 	background-size: cover;
@@ -86,7 +86,7 @@
 #fondo4{
 	position: absolute;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 	background: url(../img/serrano_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 5s infinite;
@@ -95,7 +95,7 @@
 #fondo5{
 	position: absolute;
 	width: 100%;
-	height: 600px;
+	height: 100vh;
 	background: url(../img/tabla_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 0s infinite;
