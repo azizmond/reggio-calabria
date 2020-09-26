@@ -336,13 +336,13 @@ textarea{
 	position: relative;
 	margin: 0 auto;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 }
 
 	#fondo1{
 	position: absolute;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 	background: url(../img/apetizer_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 20s infinite;
@@ -351,7 +351,7 @@ textarea{
 #fondo2{
 	position: absolute;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 	background: url(../img/beer_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 15s infinite;
@@ -360,7 +360,7 @@ textarea{
 #fondo3{
 	position: absolute;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 	background: url(../img/cheese_slide.jpg);
 	background-color: black;
 	background-size: cover;
@@ -370,7 +370,7 @@ textarea{
 #fondo4{
 	position: absolute;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 	background: url(../img/serrano_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 5s infinite;
@@ -379,7 +379,7 @@ textarea{
 #fondo5{
 	position: absolute;
 	width: 100%;
-	height: 50vh;
+	height: 80vh;
 	background: url(../img/tabla_slide.jpg);
 	background-size: cover;
 	animation: aniSlide 30s 0s infinite;
