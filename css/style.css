@@ -148,6 +148,59 @@ textarea{
 	.fax{
 		font-size: 3rem;
 	}
+
+	#slide{
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 30vh;
+}
+
+	#fondo1{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/apetizer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 20s infinite;
+}
+
+#fondo2{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/beer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 15s infinite;
+}
+
+#fondo3{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/cheese_slide.jpg);
+	background-color: black;
+	background-size: cover;
+	animation: aniSlide 30s 10s infinite;
+}
+
+#fondo4{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/serrano_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 5s infinite;
+}
+
+#fondo5{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/tabla_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 0s infinite;
+}
 }
 
 /**sm**/
@@ -156,6 +209,59 @@ textarea{
 	.fax{
 		font-size: 2.5rem;
 	}
+
+	#slide{
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 30vh;
+}
+
+	#fondo1{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/apetizer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 20s infinite;
+}
+
+#fondo2{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/beer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 15s infinite;
+}
+
+#fondo3{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/cheese_slide.jpg);
+	background-color: black;
+	background-size: cover;
+	animation: aniSlide 30s 10s infinite;
+}
+
+#fondo4{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/serrano_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 5s infinite;
+}
+
+#fondo5{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/tabla_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 0s infinite;
+}
 }
 
 /**md**/
@@ -164,6 +270,59 @@ textarea{
 	.fax{
 		font-size: 2rem;
 	}
+
+	#slide{
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 30vh;
+}
+
+	#fondo1{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/apetizer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 20s infinite;
+}
+
+#fondo2{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/beer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 15s infinite;
+}
+
+#fondo3{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/cheese_slide.jpg);
+	background-color: black;
+	background-size: cover;
+	animation: aniSlide 30s 10s infinite;
+}
+
+#fondo4{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/serrano_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 5s infinite;
+}
+
+#fondo5{
+	position: absolute;
+	width: 100%;
+	height: 30vh;
+	background: url(../img/tabla_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 0s infinite;
+}
 }
 
 /**lg**/
@@ -172,4 +331,57 @@ textarea{
 	.fax{
 		font-size: 2rem;
 	}
+
+	#slide{
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 50vh;
+}
+
+	#fondo1{
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	background: url(../img/apetizer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 20s infinite;
+}
+
+#fondo2{
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	background: url(../img/beer_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 15s infinite;
+}
+
+#fondo3{
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	background: url(../img/cheese_slide.jpg);
+	background-color: black;
+	background-size: cover;
+	animation: aniSlide 30s 10s infinite;
+}
+
+#fondo4{
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	background: url(../img/serrano_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 5s infinite;
+}
+
+#fondo5{
+	position: absolute;
+	width: 100%;
+	height: 50vh;
+	background: url(../img/tabla_slide.jpg);
+	background-size: cover;
+	animation: aniSlide 30s 0s infinite;
+}
 }
