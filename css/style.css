@@ -140,6 +140,15 @@ textarea{
 		color: white;
 	}
 
+.faxDonde{
+		font-size: 5rem;
+		color: #0B151E;
+	}
+
+.titulo a{
+	color: #0B151E;
+}
+
 /*----------------------------------------------------------------------*/
 
 /**xs**/
